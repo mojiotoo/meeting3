@@ -1,0 +1,1 @@
+#kalo ada file innt py di folder itu artinya satu module
